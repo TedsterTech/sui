@@ -2,6 +2,6 @@
     "apps" : [
         {"name":"Ombi","url":"request.example.com","icon":"file-find-outline"},
         {"name":"Plex","url":"plex.mark1.monster","icon":"plex"},
-        {"name":"Jellyfin","url":"jellyfin.mark1.monster","icon":"jellyfin"},
+        {"name":"Jellyfin","url":"jellyfin.mark1.monster","icon":"jellyfin"}
     ]
 }
